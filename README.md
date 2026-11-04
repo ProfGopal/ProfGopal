@@ -27,12 +27,12 @@
 ---
 
 ## 📌 About Me
-- 🎓 **Ph.D. in Computer Science** specializing in **Data Mining & IoT** from Bharathiar University[cite: 2, 6].
-- 👨‍🏫 Currently serving as **Assistant Professor** at **Amity Institute of Information Technology (AIIT), Amity University, Bengaluru**[cite: 2, 3].
-- 💡 Research focus: Machine Learning, Solar Energy Optimization, IoT Architectures, Cyber Security & Image Processing[cite: 2, 6].
-- 📚 Authored **12+ Journal Papers**, **30+ Conference Papers**, **3 Books**, **2 Book Chapters**, and filed **2 Patents**[cite: 7].
-- 📬 Reach me at: **itsgopalmail@gmail.com**[cite: 2]
-- 📞 Mobile: **+91-9524444717**[cite: 2]
+- 🎓 **Ph.D. in Computer Science** specializing in **Data Mining & IoT** from Bharathiar University.
+- 👨‍🏫 Currently serving as **Assistant Professor** at **Amity Institute of Information Technology (AIIT), Amity University, Bengaluru**.
+- 💡 Research focus: Machine Learning, Solar Energy Optimization, IoT Architectures, Cyber Security & Image Processing.
+- 📚 Authored **12+ Journal Papers**, **30+ Conference Papers**, **3 Books**, **2 Book Chapters**, and filed **2 Patents**.
+- 📬 Reach me at: **itsgopalmail@gmail.com**
+- 📞 Mobile: **+91-9524444717**
 
 ---
 
@@ -108,12 +108,12 @@
 <td valign="top" width="33%">
 
 ### 🤖 AI, IoT & Data Science
-- Data Mining & Analytics[cite: 2]
-- IoT Architecture & Protocols[cite: 2, 4, 6]
-- Machine Learning & Deep Learning[cite: 4, 6]
-- Remote Sensing & Image Processing[cite: 5, 6]
-- Generative AI[cite: 3]
-- Python for Data Science[cite: 3]
+- Data Mining & Analytics
+- IoT Architecture & Protocols
+- Machine Learning & Deep Learning
+- Remote Sensing & Image Processing
+- Generative AI
+- Python for Data Science
 
 </td>
 
@@ -121,12 +121,12 @@
 <td valign="top" width="33%">
 
 ### 🗄️ Database & Core Systems
-- RDBMS & SQL Architecture[cite: 3, 4, 6]
-- Data Center Operations[cite: 3, 6]
-- Operating Systems (Linux/Unix)[cite: 4, 6]
-- C# & .NET Framework[cite: 3, 6]
-- Android Application Dev[cite: 5, 7]
-- ERP & Enterprise Systems[cite: 3]
+- RDBMS & SQL Architecture
+- Data Center Operations
+- Operating Systems (Linux/Unix)
+- C# & .NET Framework
+- Android Application Dev
+- ERP & Enterprise Systems
 
 </td>
 
@@ -134,12 +134,12 @@
 <td valign="top" width="33%">
 
 ### 🛡️ Cyber Security & Pedagogy
-- Ethical Hacking & Pen-Testing[cite: 6]
-- Incident Response & Forensics[cite: 6]
-- Network Protocol Vulnerability[cite: 6]
-- CCNA & Network Security[cite: 8]
-- PG Curriculum Design (BOS Member)[cite: 3, 4, 6]
-- Academic Research Supervision[cite: 3, 4, 6]
+- Ethical Hacking & Pen-Testing
+- Incident Response & Forensics
+- Network Protocol Vulnerability
+- CCNA & Network Security
+- PG Curriculum Design (BOS Member)
+- Academic Research Supervision
 
 </td>
 </tr></table>
@@ -165,11 +165,11 @@
 ---
 
 ## 🏆 Key Achievements & Certifications
-- 🏅 **Best Young Faculty Award** by Alpha International[cite: 4, 8].
-- 📜 **RUSA-MHRD Funded Research Fellow**: Executed ₹6,00,000 E-Waste Management Project[cite: 5, 7, 8].
-- 🔐 **CCNA (Cisco Certified Network Associate)** & Network Security Certified[cite: 8].
-- 🎓 **AI for All Certification** – Ministry of Education, India[cite: 3].
-- 📚 Supervised **30+ Postgraduate (PG) Research Projects**[cite: 6].
+- 🏅 **Best Young Faculty Award** by Alpha International.
+- 📜 **RUSA-MHRD Funded Research Fellow**: Executed ₹6,00,000 E-Waste Management Project.
+- 🔐 **CCNA (Cisco Certified Network Associate)** & Network Security Certified.
+- 🎓 **AI for All Certification** – Ministry of Education, India.
+- 📚 Supervised **30+ Postgraduate (PG) Research Projects**.
 
 ---
 
