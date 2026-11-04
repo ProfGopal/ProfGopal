@@ -1,239 +1,182 @@
-```{=html}
-<!-- Dr. Gopal Rajendran | Academic & Research Profile -->
-```
-```{=html}
-<h1 align="center">
-```
-Hi, I'm Dr. Gopal Rajendran 👋
-```{=html}
-</h1>
-```
-```{=html}
+<!-- Matrix Background Animation -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/ProfGopal)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
+
+<!-- Greet Line Typing Animation -->
+<p align="center">
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+Dr.+Gopal+Rajendran's+Profile+💻;Assistant+Professor+&+Researcher+🎓;Specialized+in+IoT,+Data+Mining+&+AI+🤖;Reach+Me+Out+for+Collaborations+🤝;Have+a+Great+Day+🌞"></a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
+
+<!-- Intro -->
+<h3 align="center">👨‍🏫 Assistant Professor | Researcher | Ph.D. in Computer Science 🇮🇳</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/ProfGopal">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Mining;Internet%20of%20Things;Artificial%20Intelligence;Cyber%20Security;Python%20%26%20Database%20Systems&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=42">
+  </a>
+</p>
+
+---
+
+## 📌 About Me
+- 🎓 **Ph.D. in Computer Science** specializing in **Data Mining & IoT** from Bharathiar University[cite: 2, 6].
+- 👨‍🏫 Currently serving as **Assistant Professor** at **Amity Institute of Information Technology (AIIT), Amity University, Bengaluru**[cite: 2, 3].
+- 💡 Research focus: Machine Learning, Solar Energy Optimization, IoT Architectures, Cyber Security & Image Processing[cite: 2, 6].
+- 📚 Authored **12+ Journal Papers**, **30+ Conference Papers**, **3 Books**, **2 Book Chapters**, and filed **2 Patents**[cite: 7].
+- 📬 Reach me at: **itsgopalmail@gmail.com**[cite: 2]
+- 📞 Mobile: **+91-9524444717**[cite: 2]
+
+---
+
+## 🌐 Connect with Me & Academic IDs
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dr-gopal-rajendran-953b76342" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=FmZIml8AAAAJ&view_op=list_works" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="32" alt="Google Scholar" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://orcid.org/0000-0003-3381-1494" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="32" alt="ORCID" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57211608290" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Scopus_logo.svg" height="32" alt="Scopus" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:itsgopalmail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🖥️ Tech Stack & Core Competencies
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![IoT](https://img.shields.io/badge/Internet%20of%20Things-00599C?style=for-the-badge&logo=arduino&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-E00000?style=for-the-badge&logo=hack-the-box&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<!-- Language and Tools Section -->
+<h1 align="left">🛠 Tools, Frameworks & Specializations</h1>
+
+<p align='center'>
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="180" height="180" class="giphy-embed" />
+</p>
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+# 📊 Domain & Skill Matrix
+
+<table><tr>
+
+<!-- AI, ML & Data -->
+<td valign="top" width="33%">
+
+### 🤖 AI, IoT & Data Science
+- Data Mining & Analytics[cite: 2]
+- IoT Architecture & Protocols[cite: 2, 4, 6]
+- Machine Learning & Deep Learning[cite: 4, 6]
+- Remote Sensing & Image Processing[cite: 5, 6]
+- Generative AI[cite: 3]
+- Python for Data Science[cite: 3]
+
+</td>
+
+<!-- Core Systems & Database -->
+<td valign="top" width="33%">
+
+### 🗄️ Database & Core Systems
+- RDBMS & SQL Architecture[cite: 3, 4, 6]
+- Data Center Operations[cite: 3, 6]
+- Operating Systems (Linux/Unix)[cite: 4, 6]
+- C# & .NET Framework[cite: 3, 6]
+- Android Application Dev[cite: 5, 7]
+- ERP & Enterprise Systems[cite: 3]
+
+</td>
+
+<!-- Security & Academics -->
+<td valign="top" width="33%">
+
+### 🛡️ Cyber Security & Pedagogy
+- Ethical Hacking & Pen-Testing[cite: 6]
+- Incident Response & Forensics[cite: 6]
+- Network Protocol Vulnerability[cite: 6]
+- CCNA & Network Security[cite: 8]
+- PG Curriculum Design (BOS Member)[cite: 3, 4, 6]
+- Academic Research Supervision[cite: 3, 4, 6]
+
+</td>
+</tr></table>
+
+---
+
+### 💡 Academic & Research Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProfGopal&show_icons=true&theme=radical" alt="ProfGopal GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProfGopal&theme=github_dark"/>
+</p>
+
+---
+
+## 🏆 Key Achievements & Certifications
+- 🏅 **Best Young Faculty Award** by Alpha International[cite: 4, 8].
+- 📜 **RUSA-MHRD Funded Research Fellow**: Executed ₹6,00,000 E-Waste Management Project[cite: 5, 7, 8].
+- 🔐 **CCNA (Cisco Certified Network Associate)** & Network Security Certified[cite: 8].
+- 🎓 **AI for All Certification** – Ministry of Education, India[cite: 3].
+- 📚 Supervised **30+ Postgraduate (PG) Research Projects**[cite: 6].
+
+---
+
+## 🐍 Activity
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <h3 align="center">
-```
-Assistant Professor | Computer Science | Researcher in Data Mining,
-IoT & Artificial Intelligence
-```{=html}
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://github.com/ProfGopal">`{=html}
-`<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&vCenter=true&width=850&lines=Computer+Science+Educator;Data+Mining+%26+Machine+Learning;Internet+of+Things+%28IoT%29;Artificial+Intelligence+%26+Cyber+Security;Researcher+%7C+Mentor+%7C+Academic" alt="Typing introduction" />`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="85%" alt="Animated banner" />`{=html}
-```{=html}
-</p>
-```
----
-👨‍🏫 About Me
-I am a Ph.D.-qualified Assistant Professor in Computer Science with 6
-years and 8 months of combined academic, research, and industry
-experience. My academic and research interests include Data Mining,
-Internet of Things (IoT), Machine Learning, Artificial Intelligence,
-Cyber Security, and Image Processing.
-I currently serve as an Assistant Professor at Amity Institute of
-Information Technology, Amity University, Bengaluru. I teach
-undergraduate and postgraduate students, guide research projects,
-contribute to curriculum development, and support academic coordination
-and examination activities.
-🎓 Qualification: B.C.A., M.Sc., M.Phil., Ph.D. in Computer
-Science
-🏫 Current role: Assistant Professor, Amity University,
-Bengaluru
-🔬 Research focus: Data Mining, IoT, Machine Learning and Solar
-Energy Optimization
-👨‍🎓 PG projects guided: 30
-📧 Email: itsgopalmail@gmail.com
-💼 LinkedIn: Dr. Gopal
-Rajendran
-🐙 GitHub: ProfGopal
----
-🎓 Education
----
-Qualification     Institution       Specialization    Year
----
-Ph.D.             Bharathiar        Data Mining and   2024
-University        Internet of  
-Things
-M.Phil.           Bharathiar        Image Processing  2019
-University
-M.Sc.             Bharathiar        Computer Science  2018
-University
-B.C.A.            P.S.G. College of Computer          2016
-Arts & Science,   Applications  
-Bharathiar  
-University
----
-💼 Academic & Professional Experience
-Assistant Professor --- Amity Institute of Information Technology,
-Amity University, Bengaluru
-Undergraduate and postgraduate teaching, curriculum development,
-LMS-based delivery, student mentoring and research-project
-supervision.
-Departmental responsibilities include Exam Coordinator and
-Single Point of Contact (SPOC).
-Board of Studies participation, examination moderation, academic
-documentation and quality-assurance activities.
-Assistant Professor --- Department of Computer Science (PG),
-Kristu Jayanti College, Bengaluru
-Postgraduate teaching, digital assessments, class coordination
-and research-project guidance.
-Contributed to curriculum review, accreditation documentation,
-workshops and guest lectures.
-Assistant Professor --- Department of MCA, Atria Institute of
-Technology, Bengaluru
-Postgraduate teaching, internal assessment coordination,
-curriculum activities and project supervision.
-Served in departmental library and website coordination
-responsibilities.
-Research Fellow --- Bharathiar University
-Worked on an MHRD--RUSA funded e-waste management project and
-supported research and student outreach activities.
----
-🧑‍🏫 Teaching Areas
-Database Management Systems (DBMS) and Relational Databases
-Python Programming and Data Analytics
-Internet of Things (IoT)
-Artificial Intelligence and Generative AI
-Operating Systems
-SQL
-C# and .NET Framework
-Data Center Operations and Management
-Cyber Security and Ethical Hacking
-Penetration Testing, Incident Response and Digital Forensics
-Vulnerability Analysis in Network Protocols
----
-🔬 Research Interests
-Data Mining and Knowledge Discovery
-Internet of Things (IoT)
-Machine Learning and Artificial Intelligence
-Solar Energy Generation, Prediction and Optimization
-Image Processing and Remote Sensing
-Cyber Security
-Doctoral Research
-Design and Development of Solar Energy Generation and Optimization
-using Machine Learning Techniques
-Research specialization: Data Mining and Internet of Things.
-M.Phil. Research
-An Efficient Classification of Soil Taxonomy using Remote Sensing
-Images
-Research specialization: Image Processing.
----
-📚 Research & Academic Contributions
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Journal%20Papers-12-blue?style=for-the-badge" alt="12 journal papers" />`{=html}
-`<img src="https://img.shields.io/badge/Conference%20Papers-30-green?style=for-the-badge" alt="30 conference papers" />`{=html}
-`<img src="https://img.shields.io/badge/Books-3-orange?style=for-the-badge" alt="3 books" />`{=html}
-`<img src="https://img.shields.io/badge/Book%20Chapters-2-purple?style=for-the-badge" alt="2 book chapters" />`{=html}
-`<img src="https://img.shields.io/badge/Patents-2-red?style=for-the-badge" alt="2 patents" />`{=html}
-```{=html}
-</p>
-```
-Published 12 research papers in national and international
-journals.
-Presented and published 30 papers at national and international
-conferences.
-Published 3 books and 2 book chapters.
-Published / reported 2 patents, as stated in the current CV.
-Guided 30 postgraduate student projects.
-Participated in 19 Faculty Development Programs (FDPs) and 11
-national/international seminars and webinars.
-Completed 10 certificate courses through platforms including
-NPTEL, Coursera, NVIDIA DLI, Infosys Springboard and Udemy.
----
-🛠️ Technical Skills
-Programming, Data & Databases
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-Research & Emerging Technologies
-![Artificial](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
-![Machine](https://img.shields.io/badge/Machine%20Learning-0A9396?style=for-the-badge)
-![Data](https://img.shields.io/badge/Data%20Mining-005F73?style=for-the-badge)
-![Internet of](https://img.shields.io/badge/Internet%20of%20Things-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Cyber](https://img.shields.io/badge/Cyber%20Security-1D3557?style=for-the-badge)
-![Image](https://img.shields.io/badge/Image%20Processing-6A4C93?style=for-the-badge)
-Tools & Platforms
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
----
-🚀 Selected Projects
-Solar Energy Generation and Optimization using Machine Learning
---- Ph.D. research project focused on solar-energy generation and
-optimization.
-E-Waste Management: An Entrepreneurial Approach --- MHRD--RUSA
-funded project at Bharathiar University (project value stated in CV:
-₹6,00,000); included an Android application to support e-waste
-collection, restoration and distribution.
-Service Person Checklist and Monitoring Mobile App ---
-internship project involving service-person monitoring.
-Mobile Barcode Scanner for Warranty Card Management ---
-internship project.
-Smart Fence for Agricultural Farms from Wild Animals ---
-postgraduate major project.
-Remote Control Home Automation System --- postgraduate mini
-project.
----
-🏆 Awards & Academic Responsibilities
-Best Young Faculty Award --- Alpha International.
-Served as Tech Guru for the ATAL Idea Lab at VTU, Muddenahalli.
-Board of Studies Member at Amity University, Bengaluru; previously
-served in departmental academic responsibilities at Atria Institute
-of Technology.
-Served as Department Secretary at P.S.G. College of Arts & Science
-and Department Chairman at Bharathiar University.
-Contributed to course-file preparation, student mentoring, internal
-assessments, accreditation documentation and academic quality
-processes.
-CCNA --- Cisco Certified Network Associate course completed.
-Completed certification in Fundamentals of Network Security.
----
-🔗 Academic Profiles
-ORCID:
-0000-0003-3381-1494
-Google Scholar: View
-publications
-Scopus: Author
-profile
-Vidwan: 357704
-LinkedIn: Dr. Gopal
-Rajendran
----
-📊 GitHub Overview
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=ProfGopal&show_icons=true&theme=radical" alt="Dr. Gopal Rajendran's GitHub statistics" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProfGopal&theme=github_dark" alt="GitHub profile summary" />`{=html}
-```{=html}
-</p>
-```
----
-```{=html}
-<p align="center">
-```
-`<b>`{=html}Teaching • Research • Innovation • Lifelong
-Learning`</b>`{=html} `<br />`{=html} Thank you for visiting my GitHub
-profile!
-```{=html}
-</p>
-```
