@@ -28,7 +28,7 @@
 
 
 ##  About Me
--  Reach me at: **hey.aryan23@gmail.com**
+-  Reach me at: **itsgopalmail@gmail.com**
 
 ---
 
