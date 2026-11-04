@@ -1,224 +1,239 @@
-<!-- Matrix Background Animation -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-<!-- Greet Line Comes Here -->
-<p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-
-<!-- Intro -->
-<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
-
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/ProfGopal">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Graphic%20Designer;CS%20Engineering;Flutter%20Development;Full%20Stack%20Development&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
-  </a>
-</p>
-
----
-
-
-##  About Me
--  Reach me at: **itsgopalmail@gmail.com**
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/ProfGopal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
-  </a>
-  <a href="https://instagram.com/__ar.yy.an__" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
-  </a>
-  <a href="https://twitter.com/AryanKu31738501" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
-  </a>
-  <a href="https://discord.gg/hey.aryan23" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" />
-  </a>
-</p>
-
----
-
-## 🖥️ Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<!-- Language and Tools Section Here -->
-<h1 align="left">🛠 Language and Tools</h1>
-
-<!-- Vector Tool Gif -->
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<!-- Vector Tool Gif Ends -->
-
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-
-
-# My Skills Set:
-
-<table><tr>
-
-<!-- Frontend -->
-<td valign="top" width="33%">
-
-### Frontend
-
-<div align="center">  
-  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-  <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-  <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-  <a href="https://www.blender.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-  <a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-  <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td>
-
-<!-- Backend -->
-<td valign="top" width="33%">
-
-### Backend
-
-<div align="center">  
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-</div>
-
-</td>
-
-<!-- DevOps -->
-<td valign="top" width="33%">
-
-### DevOps
-
-<div align="center">  
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-</div>
-
-</td>
-</tr></table>
-
----
-
-###  Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ProfGopal/ProfGopal/main/gitartwork.svg" alt="Gitartwork" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProfGopal&show_icons=true&theme=radical" alt="ProfGopal GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProfGopal&theme=github_dark"/>
-</p>
-
-
-
-
----
-
-##  HackerRank Certifications
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ba1de4d7-7764-4900-9c5c-25b1e5b604fa" alt="HackerRank Certifications" width="700">
-</p>
-
-
----
-
-
-## Snake Animation
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
-
+```{=html}
+<!-- Dr. Gopal Rajendran | Academic & Research Profile -->
+```
+```{=html}
+<h1 align="center">
+```
+Hi, I'm Dr. Gopal Rajendran 👋
+```{=html}
+</h1>
+```
+```{=html}
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+```
+Assistant Professor | Computer Science | Researcher in Data Mining,
+IoT & Artificial Intelligence
+```{=html}
 </h3>
-
-
-
-
-
-
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://github.com/ProfGopal">`{=html}
+`<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&vCenter=true&width=850&lines=Computer+Science+Educator;Data+Mining+%26+Machine+Learning;Internet+of+Things+%28IoT%29;Artificial+Intelligence+%26+Cyber+Security;Researcher+%7C+Mentor+%7C+Academic" alt="Typing introduction" />`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="85%" alt="Animated banner" />`{=html}
+```{=html}
+</p>
+```
+---
+👨‍🏫 About Me
+I am a Ph.D.-qualified Assistant Professor in Computer Science with 6
+years and 8 months of combined academic, research, and industry
+experience. My academic and research interests include Data Mining,
+Internet of Things (IoT), Machine Learning, Artificial Intelligence,
+Cyber Security, and Image Processing.
+I currently serve as an Assistant Professor at Amity Institute of
+Information Technology, Amity University, Bengaluru. I teach
+undergraduate and postgraduate students, guide research projects,
+contribute to curriculum development, and support academic coordination
+and examination activities.
+🎓 Qualification: B.C.A., M.Sc., M.Phil., Ph.D. in Computer
+Science
+🏫 Current role: Assistant Professor, Amity University,
+Bengaluru
+🔬 Research focus: Data Mining, IoT, Machine Learning and Solar
+Energy Optimization
+👨‍🎓 PG projects guided: 30
+📧 Email: itsgopalmail@gmail.com
+💼 LinkedIn: Dr. Gopal
+Rajendran
+🐙 GitHub: ProfGopal
+---
+🎓 Education
+---
+Qualification     Institution       Specialization    Year
+---
+Ph.D.             Bharathiar        Data Mining and   2024
+University        Internet of  
+Things
+M.Phil.           Bharathiar        Image Processing  2019
+University
+M.Sc.             Bharathiar        Computer Science  2018
+University
+B.C.A.            P.S.G. College of Computer          2016
+Arts & Science,   Applications  
+Bharathiar  
+University
+---
+💼 Academic & Professional Experience
+Assistant Professor --- Amity Institute of Information Technology,
+Amity University, Bengaluru
+Undergraduate and postgraduate teaching, curriculum development,
+LMS-based delivery, student mentoring and research-project
+supervision.
+Departmental responsibilities include Exam Coordinator and
+Single Point of Contact (SPOC).
+Board of Studies participation, examination moderation, academic
+documentation and quality-assurance activities.
+Assistant Professor --- Department of Computer Science (PG),
+Kristu Jayanti College, Bengaluru
+Postgraduate teaching, digital assessments, class coordination
+and research-project guidance.
+Contributed to curriculum review, accreditation documentation,
+workshops and guest lectures.
+Assistant Professor --- Department of MCA, Atria Institute of
+Technology, Bengaluru
+Postgraduate teaching, internal assessment coordination,
+curriculum activities and project supervision.
+Served in departmental library and website coordination
+responsibilities.
+Research Fellow --- Bharathiar University
+Worked on an MHRD--RUSA funded e-waste management project and
+supported research and student outreach activities.
+---
+🧑‍🏫 Teaching Areas
+Database Management Systems (DBMS) and Relational Databases
+Python Programming and Data Analytics
+Internet of Things (IoT)
+Artificial Intelligence and Generative AI
+Operating Systems
+SQL
+C# and .NET Framework
+Data Center Operations and Management
+Cyber Security and Ethical Hacking
+Penetration Testing, Incident Response and Digital Forensics
+Vulnerability Analysis in Network Protocols
+---
+🔬 Research Interests
+Data Mining and Knowledge Discovery
+Internet of Things (IoT)
+Machine Learning and Artificial Intelligence
+Solar Energy Generation, Prediction and Optimization
+Image Processing and Remote Sensing
+Cyber Security
+Doctoral Research
+Design and Development of Solar Energy Generation and Optimization
+using Machine Learning Techniques
+Research specialization: Data Mining and Internet of Things.
+M.Phil. Research
+An Efficient Classification of Soil Taxonomy using Remote Sensing
+Images
+Research specialization: Image Processing.
+---
+📚 Research & Academic Contributions
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Journal%20Papers-12-blue?style=for-the-badge" alt="12 journal papers" />`{=html}
+`<img src="https://img.shields.io/badge/Conference%20Papers-30-green?style=for-the-badge" alt="30 conference papers" />`{=html}
+`<img src="https://img.shields.io/badge/Books-3-orange?style=for-the-badge" alt="3 books" />`{=html}
+`<img src="https://img.shields.io/badge/Book%20Chapters-2-purple?style=for-the-badge" alt="2 book chapters" />`{=html}
+`<img src="https://img.shields.io/badge/Patents-2-red?style=for-the-badge" alt="2 patents" />`{=html}
+```{=html}
+</p>
+```
+Published 12 research papers in national and international
+journals.
+Presented and published 30 papers at national and international
+conferences.
+Published 3 books and 2 book chapters.
+Published / reported 2 patents, as stated in the current CV.
+Guided 30 postgraduate student projects.
+Participated in 19 Faculty Development Programs (FDPs) and 11
+national/international seminars and webinars.
+Completed 10 certificate courses through platforms including
+NPTEL, Coursera, NVIDIA DLI, Infosys Springboard and Udemy.
+---
+🛠️ Technical Skills
+Programming, Data & Databases
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Research & Emerging Technologies
+![Artificial](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
+![Machine](https://img.shields.io/badge/Machine%20Learning-0A9396?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data%20Mining-005F73?style=for-the-badge)
+![Internet of](https://img.shields.io/badge/Internet%20of%20Things-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Cyber](https://img.shields.io/badge/Cyber%20Security-1D3557?style=for-the-badge)
+![Image](https://img.shields.io/badge/Image%20Processing-6A4C93?style=for-the-badge)
+Tools & Platforms
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+---
+🚀 Selected Projects
+Solar Energy Generation and Optimization using Machine Learning
+--- Ph.D. research project focused on solar-energy generation and
+optimization.
+E-Waste Management: An Entrepreneurial Approach --- MHRD--RUSA
+funded project at Bharathiar University (project value stated in CV:
+₹6,00,000); included an Android application to support e-waste
+collection, restoration and distribution.
+Service Person Checklist and Monitoring Mobile App ---
+internship project involving service-person monitoring.
+Mobile Barcode Scanner for Warranty Card Management ---
+internship project.
+Smart Fence for Agricultural Farms from Wild Animals ---
+postgraduate major project.
+Remote Control Home Automation System --- postgraduate mini
+project.
+---
+🏆 Awards & Academic Responsibilities
+Best Young Faculty Award --- Alpha International.
+Served as Tech Guru for the ATAL Idea Lab at VTU, Muddenahalli.
+Board of Studies Member at Amity University, Bengaluru; previously
+served in departmental academic responsibilities at Atria Institute
+of Technology.
+Served as Department Secretary at P.S.G. College of Arts & Science
+and Department Chairman at Bharathiar University.
+Contributed to course-file preparation, student mentoring, internal
+assessments, accreditation documentation and academic quality
+processes.
+CCNA --- Cisco Certified Network Associate course completed.
+Completed certification in Fundamentals of Network Security.
+---
+🔗 Academic Profiles
+ORCID:
+0000-0003-3381-1494
+Google Scholar: View
+publications
+Scopus: Author
+profile
+Vidwan: 357704
+LinkedIn: Dr. Gopal
+Rajendran
+---
+📊 GitHub Overview
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=ProfGopal&show_icons=true&theme=radical" alt="Dr. Gopal Rajendran's GitHub statistics" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProfGopal&theme=github_dark" alt="GitHub profile summary" />`{=html}
+```{=html}
+</p>
+```
+---
+```{=html}
+<p align="center">
+```
+`<b>`{=html}Teaching • Research • Innovation • Lifelong
+Learning`</b>`{=html} `<br />`{=html} Thank you for visiting my GitHub
+profile!
+```{=html}
+</p>
+```
