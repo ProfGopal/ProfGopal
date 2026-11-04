@@ -19,7 +19,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/ar-yan9">
+  <a href="https://github.com/ProfGopal">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Graphic%20Designer;CS%20Engineering;Flutter%20Development;Full%20Stack%20Development&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
@@ -35,7 +35,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ar-yan9" target="_blank">
+  <a href="https://linkedin.com/in/ProfGopal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
   <a href="https://instagram.com/__ar.yy.an__" target="_blank">
@@ -180,7 +180,7 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ar-yan9/ar-yan9/main/gitartwork.svg" alt="Gitartwork" />
+  <img src="https://raw.githubusercontent.com/ProfGopal/ProfGopal/main/gitartwork.svg" alt="Gitartwork" />
 </p>
 
 
@@ -189,7 +189,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ar-yan9&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProfGopal&theme=github_dark"/>
 </p>
 
 
